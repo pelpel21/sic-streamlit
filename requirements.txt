@@ -1,5 +1,6 @@
 streamlit
 paho-mqtt
 tensorflow==2.11.0
+numpy==1.21.0
 Pillow
 streamlit-option-menu

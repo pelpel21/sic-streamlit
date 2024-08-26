@@ -1,5 +1,5 @@
-streamlit==1.37.1
-paho-mqtt==2.1.0
+streamlit
+paho-mqtt
 tensorflow==2.10.0
 Pillow
 streamlit-option-menu
